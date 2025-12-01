@@ -518,10 +518,9 @@ npm install
 ## 👥 Kontributor
 
 **Muhammad Nur Ihsan**  
-📧 Email: 230104040214@mhs.ulm.ac.id  
 🎓 NIM: 230104040214  
-🏫 Universitas Lambung Mangkurat  
-💻 GitHub: [@USERNAME](https://github.com/USERNAME)
+🏫 Universitas Islam Negeri Antasari Banjarmasin
+💻 GitHub: [ihsanelfikire](https://github.com/ihsanelfikrie)
 
 ---
 
@@ -543,8 +542,7 @@ This project is for educational purposes only (Praktikum Web Service Engineering
 ## 📞 Support
 
 Jika menemukan bug atau ada pertanyaan:
-- 📧 Email: 230104040214@mhs.ulm.ac.id
-- 💬 Issues: [GitHub Issues](https://github.com/USERNAME/P9-API-Integration-230104040214/issues)
+- 💬 Issues: [GitHub Issues](https://github.com/ihsanelfikrie/P9-API-Integration-230104040214/issues)
 
 ---
 
